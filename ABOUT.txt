@@ -1,3 +1,8 @@
 This file has exercises about how to creat a branch and so on... 
+<<<<<<< HEAD
 I hope this file is perfectly ok for my demonstration date
 I hope nothing happens...
+=======
+these are some changes added to make conflicts
+haha you're now conflicted!
+>>>>>>> feature-update-about
